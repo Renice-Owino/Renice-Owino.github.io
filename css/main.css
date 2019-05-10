@@ -12,7 +12,7 @@
   color: #fff; }
 
 ::selection {
-  background-color: #e45447;
+  background-color: blue;
   color: #fff; }
 
 ::-webkit-input-placeholder {
